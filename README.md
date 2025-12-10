@@ -1,2 +1,1 @@
-# Project-alpha
-Shopping website 
+print("Try programiz.pro")
